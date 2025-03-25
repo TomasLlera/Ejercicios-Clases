@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Ejercitacion Clases\obj\Debug\Ejercitacion Clases.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Ejercitacion Clases\obj\Debug\Ejercitacion Clases.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Ejercitacion Clases\bin\Debug\Ejercitacion Clases.exe.config
+C:\Users\tomas\source\repos\Ejercitacion Clases\bin\Debug\Ejercitacion Clases.exe
+C:\Users\tomas\source\repos\Ejercitacion Clases\bin\Debug\Ejercitacion Clases.pdb
+C:\Users\tomas\source\repos\Ejercitacion Clases\obj\Debug\Ejercitacion Clases.exe
+C:\Users\tomas\source\repos\Ejercitacion Clases\obj\Debug\Ejercitacion Clases.pdb
